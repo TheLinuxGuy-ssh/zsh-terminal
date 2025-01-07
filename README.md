@@ -6,7 +6,7 @@ A tool which makes your linux terminal beautiful!
 # Installation
 Start by cloning the repository
 ``` bash
-git clone https://github.com/rohansharma-developer/zsh-terminal.git
+git clone https://github.com/TheLinuxGuy-ssh/zsh-terminal.git
 ```
 Change your current directory to the cloned folder
 ``` bash
