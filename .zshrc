@@ -7,7 +7,7 @@ alias clear="clear && exec zsh"
 
 # Welcome Message
 
-echo "\e[43m\e[0;37mWelcome Back \e[1;32mRohan Sharma\e[0;37m!"
+echo "\e[43m\e[0;37mWelcome Back \e[1;32mTheLinuxGuy\e[0;37m!"
 
 # ZSH Theme & Plugins
 
